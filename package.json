@@ -9,13 +9,19 @@
   "categories": [
     "Themes"
   ],
+  "publisher": "Lee4-M",
   "contributes": {
     "themes": [
       {
         "label": "Retro Autumn",
         "uiTheme": "vs-dark",
-        "path": "./themes/Retro Autumn-color-theme.json"
+        "path": "./themes/retro-autumn-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/Lee4-M/retro-autumn.git"
+  },
+  "homepage": "https://github.com/Lee4-M/retro-autumn"
 }
