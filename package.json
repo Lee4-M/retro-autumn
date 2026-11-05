@@ -1,0 +1,21 @@
+{
+  "name": "retro-autumn",
+  "displayName": "Retro Autumn",
+  "description": "VSCode theme with autumn colours and a retro vibe",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.145.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Retro Autumn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Retro Autumn-color-theme.json"
+      }
+    ]
+  }
+}
