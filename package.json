@@ -2,7 +2,7 @@
   "name": "retro-autumn",
   "displayName": "Retro Autumn",
   "description": "VSCode theme with autumn colours and a retro vibe",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "engines": {
     "vscode": "^1.145.0"
   },
