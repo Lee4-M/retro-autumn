@@ -7,4 +7,4 @@ An autumn theme with retro vibes including syntax highlighting and workbench & t
 ## Variants
 
 - Retro Autumn Dark
-- Retro Autumn Light (coming soon)
+- Retro Autumn Light 
